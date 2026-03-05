@@ -65,7 +65,7 @@ python django rest framework
 
 🔗 https://leetcode.com/u/great-aakash/
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/great-aakash/)
 
 ## 🧠 Currently Learning
 
