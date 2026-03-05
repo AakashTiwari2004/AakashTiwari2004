@@ -41,9 +41,9 @@ AWS S3 + Spring Boot
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashTiwari2004&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashTiwari2004&layout=compact)
 
 ---
 
@@ -59,4 +59,4 @@ AWS S3 + Spring Boot
 ## 📫 Connect With Me
 
 LinkedIn: (Add your LinkedIn)  
-Email: (Add your email)
+Email: greataakashtiwari@gmail.com
