@@ -58,6 +58,15 @@ python django rest framework
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AakashTiwari2004&layout=compact&theme=tokyonight)
 ---
 
+## 🧠 Problem Solving
+
+✔ 199+ problems solved on LeetCode  
+✔ Focus on Data Structures and Algorithms  
+
+🔗 https://leetcode.com/u/great-aakash/
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_USERNAME)
+
 ## 🧠 Currently Learning
 
 - System Design
